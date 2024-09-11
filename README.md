@@ -29,7 +29,7 @@
 
 ![Video Thumbnail](path_to_video2_thumbnail.png)
 
-[Watch the video]((https://www.ece.ucf.edu/seniordesign/su2022fa2022/g24/docs/FinalDemo.mp4))
+[Watch the video](https://www.ece.ucf.edu/seniordesign/su2022fa2022/g24/docs/FinalDemo.mp4)
 
 ---
 ## QR Code
