@@ -11,7 +11,7 @@
 ---
 ## Robotics Research, UCF Robotics Lab
 
-![Video Thumbnail](path_to_video2_thumbnail.png)
+![Video Thumbnail](maxresdefault.jpg)
 
 [Watch the video](https://www.youtube.com/watch?v=E8IlQSd_oBM)
 
@@ -19,7 +19,7 @@
 
 ## 4DOF Robotic Arm and VR Integration 
 
-![Video Thumbnail](path_to_video2_thumbnail.png)
+![Video Thumbnail](vr4dof.png)
 
 [Watch the video](https://www.canva.com/design/DAGDwvomoNQ/nAjIXmFpKGtzXOnixNzMCQ/view?utm_content=DAGDwvomoNQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
