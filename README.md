@@ -4,7 +4,9 @@
 
 ## R&D Robotics Internship Project
 
-![Video Thumbnail](imagearm.jpg)
+<a href="IMG_1180.mov">
+    <img src="imagearm.jpg" alt="R&D Robotics Internship Project" width="400">
+</a>
 
 [Watch the video](IMG_1180.mov)
 
