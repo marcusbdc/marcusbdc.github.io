@@ -21,7 +21,7 @@
 
 ![Video Thumbnail](path_to_video2_thumbnail.png)
 
-[Watch the video](path_to_video2.mp4)
+[Watch the video](https://www.canva.com/design/DAGDwvomoNQ/zOwawl1ZasUn8BPOmWUKLQ/edit?utm_content=DAGDwvomoNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
