@@ -6,7 +6,7 @@
 
 ![Video Thumbnail](path_to_video1_thumbnail.png)
 
-[Watch the video](https://youtube.com/shorts/PxhqBOsftzI)
+[Watch the video](IMG_1180.mov)
 
 ---
 ## Robotics Research Paper
