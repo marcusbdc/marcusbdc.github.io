@@ -4,7 +4,7 @@
 
 ## R&D Robotics Internship Project
 
-![Video Thumbnail](path_to_video1_thumbnail.png)
+![Video Thumbnail](imagearm.jpg)
 
 [Watch the video](IMG_1180.mov)
 
