@@ -9,11 +9,11 @@
 [Watch the video](IMG_1180.mov)
 
 ---
-## Robotics Research Paper
+## Robotics Research, UCF Robotics Lab
 
 ![Video Thumbnail](path_to_video2_thumbnail.png)
 
-[Watch the video](path_to_video2.mp4)
+[Watch the video](https://www.youtube.com/watch?v=E8IlQSd_oBM)
 
 ---
 
