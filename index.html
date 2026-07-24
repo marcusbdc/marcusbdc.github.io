@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Marcus BDC — Videos</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; max-width:960px; margin:32px auto; padding:0 16px; color:#111 }
+    h1 { font-size:1.6rem }
+    .video-row { display:flex; gap:20px; flex-wrap:wrap }
+    .video-card { flex:1 1 320px; border:1px solid #eee; padding:12px; border-radius:8px }
+    video { width:100%; height:auto; border-radius:6px; background:#000 }
+    .note { color:#666; font-size:0.9rem; margin-top:12px }
+    a.raw { display:inline-block; margin-top:8px; font-size:0.9rem }
+  </style>
+</head>
+<body>
+  <h1>Videos</h1>
+  <p>Simple page showing videos stored in this repository. If a video doesn't play in your browser, try converting it to MP4 (H.264) or upload it to YouTube and embed instead.</p>
+
+  <div class="video-row">
+    <div class="video-card">
+      <h2>Video: IMG_1180.mov</h2>
+      <!-- Uses the repository file IMG_1180.mov at the repo root -->
+      <video controls poster="maxresdefault.jpg">
+        <source src="IMG_1180.mov" type="video/quicktime">
+        Your browser does not support the video tag. You can download the file <a href="IMG_1180.mov">here</a>.
+      </video>
+      <p class="note">If this .mov does not play, try converting to MP4 and replacing the source with <code>yourvideo.mp4</code>.
+      </p>
+      <a class="raw" href="https://github.com/marcusbdc/marcusbdc.github.io/raw/main/IMG_1180.mov">Open raw file on GitHub</a>
+    </div>
+
+    <div class="video-card">
+      <h2>Add another video</h2>
+      <p>To add more videos, upload the file to the repository root (for example <code>video2.mp4</code>) then add another &lt;video&gt; block like this:</p>
+      <pre>&lt;video controls&gt;
+  &lt;source src="video2.mp4" type="video/mp4"&gt;
+&lt;/video&gt;</pre>
+      <p class="note">You can also embed YouTube videos using an iframe if you prefer hosting externally.</p>
+    </div>
+  </div>
+
+</body>
+</html>
